@@ -1,4 +1,6 @@
----
-title: Welcome to my blog
----
+-------------------------------------------
+title: Welcome to SamDom For Peace website
+------------------------------------------
+
+# Welcome to SamDom4Peace website
 
